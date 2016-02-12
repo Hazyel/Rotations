@@ -1,4 +1,4 @@
 # Rotations
-The MinigameMC Rotations
+The Kratous Rotations
 
-This repo contains the public rotations for the MinigameMC servers. 
+This repo contains the public rotations for the Kratous servers. 
